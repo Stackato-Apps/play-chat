@@ -1,0 +1,5 @@
+name: chat
+mem: 256M
+framework:
+  type: buildpack
+
