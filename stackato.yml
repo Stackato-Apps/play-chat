@@ -1,4 +1,4 @@
-name: chat
+name: play-chat
 mem: 256M
 framework:
   type: buildpack
