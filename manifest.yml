@@ -1,4 +1,4 @@
 applications:
 - name: play-chat
-  buildpack: https://github.com/heroku/heroku-buildpack-play.git
-  mem: 256M
+  buildpack: https://github.com/heroku/heroku-buildpack-play#v21
+  memory: 256M
